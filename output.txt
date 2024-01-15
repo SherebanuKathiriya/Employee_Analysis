@@ -1,0 +1,13 @@
+Successfully parsed
+Employee CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
+Employee De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour.
+Employee MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
+Employee MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
+Employee CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour.
+Employee HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour.
+Employee CarMer, XyWWeXX DejAaW Jr has less than 10 hours between shifts but greater than 1 hour.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S worked for more than 14 hours in a single shift.
