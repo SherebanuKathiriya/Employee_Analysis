@@ -17,7 +17,7 @@ public class EmployeeAnalysis {
 
     public static void main(String[] args) throws IOException {
         List<Employee> employees = parseExcel("Assignment_Timecard.xlsx");
-        System.out.println("Successfully parsed");
+        System.out.println("Successfully parsed the excel sheet");
 
         analyzeConsecutiveDays(employees);
         analyzeShiftGaps(employees);
