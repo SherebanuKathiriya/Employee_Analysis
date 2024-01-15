@@ -69,7 +69,7 @@ public class EmployeeAnalysis {
     private static void analyzeConsecutiveDays(List<Employee> employees) {
         for (int i = 0; i < employees.size() - 6; i++) {
             if (workedForConsecutiveDays(employees, i, i + 6) || workedForConsecutiveWorkingDays(employees, i, i + 6)) {
-                System.out.println("Employee " + employees.get(i).getName() + " worked for 7 consecutive days.");
+                System.out.println("Employee " + employees.get(i).getName() + " at position " + employees.get(i).getPosition() + " worked for 7 consecutive days.");
             }
         }
     }
@@ -111,7 +111,9 @@ public class EmployeeAnalysis {
     private static void analyzeShiftGaps(List<Employee> employees) {
         for (int i = 0; i < employees.size() - 1; i++) {
             if (hasShiftGap(employees, i, i + 1)) {
-                System.out.println("Employee " + employees.get(i).getName() +
+                System.out.println("Employee " + employees.get(i).getName() + 
+                        " at position " + employees.get(i).getPosition() + 
+                        " on " + employees.get(i).getStartTime().getDayOfMonth() + "-" + employees.get(i).getStartTime().getMonth() + "-" + employees.get(i).getStartTime().getYear() + 
                         " has less than 10 hours between shifts but greater than 1 hour.");
             }
         }
@@ -129,7 +131,9 @@ public class EmployeeAnalysis {
     private static void analyzeLongShifts(List<Employee> employees) {
         for (Employee employee : employees) {
             if (employee != null && hasLongShift(employee)) {
-                System.out.println("Employee " + employee.getName() + " worked for more than 14 hours in a single shift.");
+                System.out.println("Employee " + employee.getName()+ " at position " + employee.getPosition() + 
+                " on " + employee.getStartTime().getDayOfMonth() + "-" + employee.getStartTime().getMonth() + "-" + employee.getStartTime().getYear() + 
+                " worked for more than 14 hours in a single shift.");
             }
         }
     }

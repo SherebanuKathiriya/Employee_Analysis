@@ -1,13 +1,13 @@
 Successfully parsed the excel sheet
-Employee CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour.
-Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
-Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
-Employee Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
-Employee De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour.
-Employee MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
-Employee MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
-Employee CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour.
-Employee DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour.
-Employee HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour.
-Employee CarMer, XyWWeXX DejAaW Jr has less than 10 hours between shifts but greater than 1 hour.
-Employee DeXgadiXXE REdarMe, ChrisMiaW S worked for more than 14 hours in a single shift.
+Employee CaMaXaWE, CeghaW at position WFS000153 on 11-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar at position WFS000200 on 11-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar at position WFS000200 on 18-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee Xee, XaCar at position WFS000200 on 19-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee De Xa Cerda, IgWaciE at position WFS000318 on 22-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee MraW, WiXXiaC Ha at position WFS000345 on 13-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee MraW, WiXXiaC Ha at position WFS000345 on 20-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee CEreira Jr, JEse at position WFS000456 on 14-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S at position WFS000523 on 17-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.      
+Employee HaCiXMEW, DeaWMe DevEW at position WFS000536 on 21-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee CarMer, XyWWeXX DejAaW Jr at position WFS000576 on 10-SEPTEMBER-2023 has less than 10 hours between shifts but greater than 1 hour.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S at position WFS000523 on 17-SEPTEMBER-2023 worked for more than 14 hours in a single shift.
